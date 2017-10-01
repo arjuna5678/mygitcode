@@ -1,4 +1,4 @@
-package com.cloudxlab.charcount;
+package com.arjuna.charcount;
 
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.LongWritable;

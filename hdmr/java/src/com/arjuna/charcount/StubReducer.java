@@ -1,4 +1,4 @@
-package com.cloudxlab.charcount;
+package com.arjuna.charcount;
 import java.io.IOException;
 
 import org.apache.hadoop.io.DoubleWritable;

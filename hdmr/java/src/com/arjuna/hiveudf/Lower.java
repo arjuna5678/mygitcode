@@ -1,4 +1,4 @@
-package com.cloudxlab.hiveudf;
+package com.arjuna.hiveudf;
 
 import org.apache.hadoop.hive.ql.exec.UDF;
 import org.apache.hadoop.io.Text;

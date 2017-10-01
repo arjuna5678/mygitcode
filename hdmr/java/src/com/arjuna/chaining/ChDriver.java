@@ -1,4 +1,4 @@
-package com.cloudxlab.chaining;
+package com.arjuna.chaining;
 
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.LongWritable;
@@ -10,9 +10,9 @@ import org.apache.hadoop.mapreduce.lib.jobcontrol.ControlledJob;
 import org.apache.hadoop.mapreduce.lib.jobcontrol.JobControl;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 
-import com.cloudxlab.wordcount.StubMapper;
-import com.cloudxlab.wordcount.StubReducer;
-import com.cloudxlab.customreader.NLinesInputFormat;
+import com.arjuna.wordcount.StubMapper;
+import com.arjuna.wordcount.StubReducer;
+import com.arjuna.customreader.NLinesInputFormat;
 
 public class ChDriver {
 

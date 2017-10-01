@@ -1,4 +1,4 @@
-package com.cloudxlab.nextword;
+package com.arjuna.nextword;
 
 import static org.junit.Assert.*;
 

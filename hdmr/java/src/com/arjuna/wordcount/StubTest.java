@@ -1,4 +1,4 @@
-package com.cloudxlab.wordcount;
+package com.arjuna.wordcount;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;

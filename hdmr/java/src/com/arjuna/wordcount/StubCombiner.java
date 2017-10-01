@@ -1,4 +1,4 @@
-package com.cloudxlab.wordcount;
+package com.arjuna.wordcount;
 
 import java.io.IOException;
 

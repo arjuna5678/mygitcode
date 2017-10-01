@@ -1,4 +1,4 @@
-package com.cloudxlab.simplewordcount;
+package com.arjuna.simplewordcount;
 import java.io.IOException;
 
 import org.apache.hadoop.io.DoubleWritable;

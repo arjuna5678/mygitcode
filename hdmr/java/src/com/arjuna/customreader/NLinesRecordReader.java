@@ -1,4 +1,4 @@
-package com.cloudxlab.customreader;
+package com.arjuna.customreader;
 
 import java.io.IOException;
 

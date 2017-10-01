@@ -1,4 +1,4 @@
-package com.cloudxlab.chaining;
+package com.arjuna.chaining;
 import java.io.IOException;
 
 import org.apache.hadoop.io.DoubleWritable;

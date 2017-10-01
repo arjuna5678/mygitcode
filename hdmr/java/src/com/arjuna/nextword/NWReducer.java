@@ -1,4 +1,4 @@
-package com.cloudxlab.nextword;
+package com.arjuna.nextword;
 
 import java.io.IOException;
 import java.util.PriorityQueue;

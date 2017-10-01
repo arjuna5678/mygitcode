@@ -1,4 +1,4 @@
-package com.cloudxlab.nextword;
+package com.arjuna.nextword;
 
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.*;

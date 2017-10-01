@@ -1,4 +1,4 @@
-package com.cloudxlab.customreader;
+package com.arjuna.customreader;
 
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.Text;

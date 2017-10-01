@@ -1,4 +1,4 @@
-package com.cloudxlab.simplewordcount;
+package com.arjuna.simplewordcount;
 import static org.junit.Assert.*;
 
 import java.io.IOException;

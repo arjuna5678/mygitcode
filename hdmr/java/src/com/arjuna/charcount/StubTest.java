@@ -1,4 +1,4 @@
-package com.cloudxlab.charcount;
+package com.arjuna.charcount;
 import static org.junit.Assert.*;
 
 import java.io.IOException;

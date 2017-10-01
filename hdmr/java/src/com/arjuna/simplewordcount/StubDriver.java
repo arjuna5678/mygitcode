@@ -1,4 +1,4 @@
-package com.cloudxlab.simplewordcount;
+package com.arjuna.simplewordcount;
 
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.LongWritable;
