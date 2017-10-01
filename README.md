@@ -1,0 +1,2 @@
+# mygitcode
+my practice codes
